@@ -20,7 +20,7 @@ Installation-
 
 Clone the repository:
 
-git clone https://github.com/yourusername/Library-Management-System-using-SQL.git
+git clone https://github.com/Udaysharma108/Library-Management-System-using-SQL.git
 
 
 Import the SQL file into your MySQL server
