@@ -1,40 +1,33 @@
-Library Management System using SQL:
+ 📌 Overview
+This project is a *Library Management System Using SQL* designed to manage books, members, and transactions in a library.  
+It uses *SQL* for database operations, ensuring efficient storage, retrieval, and management of library data.
 
-A beginner-friendly SQL-based Library Management System to manage books, members, and transactions efficiently. This project demonstrates basic database design, CRUD operations, and query handling — ideal for students and beginners.
+ ✨ Features
+- Add, update, and delete book records
+- Manage member information
+- Track book issue and return dates
+- Prevent duplicate entries
+- Simple and user-friendly structure
 
-Features:
+ 🛠️ Technologies Used
+- *SQL* (Database)
+- *MySQL* or any RDBMS
+- Basic *command-line interface* for execution
 
-Add, update, and delete book records
+ 📂 Project Structure
+Library-Management-System-using-SQL/
+├── Books.sql
+├── Members.sql
+├── Transactions.sql
+├── README.md
 
-Manage member details
-
-Track book issue and return dates
-
-Generate simple reports
-
-Tech Stack
-
-Database: MySQL
-
-Installation-
-
-Clone the repository:
-
-git clone https://github.com/Udaysharma108/Library-Management-System-using-SQL.git
+ 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Udaysharma108/Library-Management-System-using-SQL.git
 
 
-Import the SQL file into your MySQL server
+Execute the queries to manage the library system.
 
-Run the queries to create tables and test the system
-
-Usage
-
-Store and manage book inventory
-
-Keep track of borrowed and returned books
-
-Maintain student/member records
-
-License
-
-This project is open-source and available under the MIT License.
+ 📜 License
+This project is open-source and free to use for learning purposes.
